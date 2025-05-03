@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudSobhiAwad&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudSobhiAwad" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudSobhiAwad" alt="mahmoudSobhiAwad" /></a> </p>
 
-- 🔭 I’m currently working on **veterinarian app**  
+- 🔭 I’m currently working as Flutter Dev in **MD SOFT**  
   
 - 🔭 delivered freelanced app [Alwarsha(Desktop-App-for-kitchen-workshop-mangment-system)](https://github.com/modyelgen/al_hassan_warsha)
 
